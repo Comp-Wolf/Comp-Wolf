@@ -6,8 +6,11 @@
 
 <h3 align="center">Hey there, I'm Ali<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   
+# https://media-exp1.licdn.com/dms/image/C5616AQE6TqlKukQ1WA/profile-displaybackgroundimage-shrink_350_1400/0/1634759610591?e=1651708800&v=beta&t=gMTD5kjgO8mesGEjaM8WORj_PkUA1YM7JKUjzszIBXA
   
-<a href="#"><img width="50%" height="auto" src="https://assets3.botmetric.com/wp-content/uploads/2017/04/devops-for-aws-cloud-management-v2.png" height="75px"/></a>
+# https://assets3.botmetric.com/wp-content/uploads/2017/04/devops-for-aws-cloud-management-v2.png
+  
+<a href="#"><img width="50%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQE6TqlKukQ1WA/profile-displaybackgroundimage-shrink_350_1400/0/1634759610591?e=1651708800&v=beta&t=gMTD5kjgO8mesGEjaM8WORj_PkUA1YM7JKUjzszIBXA" height="75px"/></a>
 
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
   
