@@ -15,9 +15,9 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate on DevOps
-- 📫 reach me alierdogan38@gmail.com
-- 📫 reach me www.erdoganali.net
-- 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/
+- 📫 reach me alierdogan38@gmail.com  
+- 💬 my site www.erdoganali.net   ✨
+- 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨
   
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
 
