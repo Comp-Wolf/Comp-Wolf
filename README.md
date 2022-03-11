@@ -17,6 +17,8 @@
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 reach me alierdogan38@gmail.com
 - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/
+  
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
 
   
 ## 📫 Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
