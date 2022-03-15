@@ -23,7 +23,7 @@
 - 💬 my site www.erdoganali.net   ✨
 - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨
   
-## <img src="http://images.gofreedownload.net/pen-and-note-stick-26808.jpg" width="2%"> https://www.linkedin.com/in/alierdogan-comp-wolf/ <img src="http://images.gofreedownload.net/pen-and-note-stick-26808.jpg" width="2%">
+## <img src="http://images.gofreedownload.net/pen-and-note-stick-26808.jpg" width="1%"> https://www.linkedin.com/in/alierdogan-comp-wolf/ <img src="http://images.gofreedownload.net/pen-and-note-stick-26808.jpg" width="1%">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
 
