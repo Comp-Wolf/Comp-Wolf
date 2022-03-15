@@ -11,7 +11,7 @@
 
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
 
-## <img src="http://images.gofreedownload.net/feather-26807.jpg" width="4%"> About Me <img src="ttp://images.gofreedownload.net/veston-user-26800.jpg" width="4%">
+## <img src="http://images.gofreedownload.net/feather-26807.jpg" width="4%"> About Me <img src="http://images.gofreedownload.net/veston-user-26800.jpg" width="4%">
 
   
 - 👋 Hi, I’m @alierdogan
