@@ -11,7 +11,7 @@
 
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
 
-## <img src="http://images.gofreedownload.net/feather-26807.jpg" width="4%"> About Me <img src="http://images.gofreedownload.net/veston-user-26800.jpg" width="4%">
+## <img src="http://images.gofreedownload.net/feather-26807.jpg""https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" "ttp://images.gofreedownload.net/veston-user-26800.jpg" width="4%">
 
 
   
@@ -23,10 +23,8 @@
 - 💬 my site www.erdoganali.net   ✨
 - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨
   
-## <img src="http://images.gofreedownload.net/pen-and-note-stick-26808.jpg" width="1%"> https://www.linkedin.com/in/alierdogan-comp-wolf/ <img src="http://images.gofreedownload.net/pen-and-note-stick-26808.jpg" width="1%">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
   
 ## 📫 Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
