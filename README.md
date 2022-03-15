@@ -21,8 +21,15 @@
 - 📫 reach me alierdogan38@gmail.com  ✨
 - 💬 my site www.erdoganali.net   ✨
 - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨
-  
 
+ ---------------
+<h5 align="left">We are NightFighter, Join us to NightFighterClub:</h5>
+<p align="left">
+
+  [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="100" width="160" />](https://www.linkedin.com/groups/14059731/)
+
+ ---------------
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
   
 ## 📫 Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
