@@ -11,9 +11,9 @@
   
 <a href="#"><img width="50%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQE6TqlKukQ1WA/profile-displaybackgroundimage-shrink_350_1400/0/1634759610591?e=1651708800&v=beta&t=gMTD5kjgO8mesGEjaM8WORj_PkUA1YM7JKUjzszIBXA" height="75px"/></a>
 
-## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="3%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="3%">
+## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="3%"> About Me <img src="http://images.gofreedownload.net/feather-26807.jpg" width="3%">
 
-## <img src="http://images.gofreedownload.net/feather-26807.jpg" width="3%"> About Me <img src="http://images.gofreedownload.net/veston-user-26800.jpg" width="3%">
+## <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" width="3%"> About Me <img src="http://images.gofreedownload.net/veston-user-26800.jpg" width="3%">
 
   
 - 👋 Hi, I’m @alierdogan
@@ -33,7 +33,7 @@
  ---------------
   
    [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/alierdogan-comp-wolf/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](?)
+
  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:alierdogan38@gmail.com)
   
   ---------------
@@ -44,6 +44,8 @@
   
   <p> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="8%"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" width="8%"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" width="8%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="13%"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="9%"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="6%"> <img src="https://www.stratoscale.com/wp-content/uploads/2019/04/Kubernetes-logo.png" width="6%"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="10%"> <img src="https://marka-logo.com/wp-content/uploads/2020/09/Linux-Logo.png" width="8%">
     
+  ---------------
+  [ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHRNGR)](https://github.com/HRNGR) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=HRNGR&label=Profile%20views&color=129e00&style=plastic" alt="Harun" /> </p> 
   ---------------
   
 ## 📫 Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
