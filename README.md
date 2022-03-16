@@ -3,9 +3,7 @@
 ![snake svg](https://github.com/Comp-Wolf/Comp-Wolf/blob/output/github-contribution-grid-snake.svg)
 
 -------------
-
-<a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
-
+## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQFkmiGOd9S9dg/profile-displayphoto-shrink_800_800/0/1641839805384?e=1652918400&v=beta&t=UckwfzJ2JEYBriMqDmApb6oAEiAZq3gJv_nsgE5LqKE" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
 -------------
 
 <h3 align="center">Hey there, I'm Ali  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
