@@ -16,7 +16,8 @@
 
   
 - 👋 Hi, I’m @alierdogan
-- 👀 I’m interested in IT
+
+[<img align="center" src="https://www.emojiall.com/en/header-svg/%F0%9F%92%BB.svg" background-color="white" alt="instagram" height="30" width="40" />](mailto:alierdogan38@gmail.com)   - 👀 I’m interested in IT
 - 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate on DevOps
 
