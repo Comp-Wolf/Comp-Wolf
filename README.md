@@ -23,7 +23,7 @@
 - 📫 reach me alierdogan38@gmail.com  ✨
 - 💬 my site www.erdoganali.net   ✨
  
-   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/alierdogan-comp-wolf/) - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/alierdogan-comp-wolf/)   - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨
 
  ---------------
 <h5 align="left">We are NightFighter, Join us to NightFighterClub:</h5>
