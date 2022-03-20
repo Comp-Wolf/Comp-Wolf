@@ -12,7 +12,7 @@
 
 -------------
 
-[<img align="center" src="https://www.emojiall.com/tr/relations-chart/%F0%9F%93%A5.svg" background-color="white" alt="instagram" height="300" width="400" />] 
+<img align="center" src="https://www.emojiall.com/tr/relations-chart/%F0%9F%93%A5.svg" background-color="white" alt="instagram" height="300" width="400" /> 
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="3%"> About Me <img src="http://images.gofreedownload.net/feather-26807.jpg" width="3%"> <img src="http://images.gofreedownload.net/veston-user-26800.jpg" width="3%">
 
 -------------
