@@ -43,7 +43,10 @@
 
  --------------
  --------------
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=comp-wolf&show_icons=true&locale=en&layout=compact" alt="comp-wolf" width="415" />  ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=comp-wolf&show_icons=true&locale=en&layout=compact" alt="comp-wolf" width="340" /> 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=comp-wolf&show_icons=true&locale=en" alt="comp-wolf" width="400" /></p>
+  
+<!---  ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&show_icons=true) --->
 
 <!---  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical) --->
 
