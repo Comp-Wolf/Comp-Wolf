@@ -36,11 +36,12 @@
 [<img align="center" src="https://cdn.dribbble.com/users/759099/screenshots/3584436/linked_in2.gif" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/alierdogan-comp-wolf/)   - 📫 https://www.linkedin.com/in/alierdogan-comp-wolf/   ✨   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="35" width="45" />](https://www.linkedin.com/in/alierdogan-comp-wolf/)
 
  ---------------
+<!--- 
 <h5 align="left">We are NightFighter, Join us to NightFighterClub:</h5>
 <p align="left">
 
   [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="100" width="180" />](https://www.linkedin.com/groups/14059731/)
-
+--->
  --------------
  --------------
 <h5 align="center">We are NightFighter, Join us to NightFighterClub:</h5>
@@ -51,11 +52,6 @@
   
 [<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="100" width="180" />](https://www.linkedin.com/groups/14059731/) <img align="right" src="https://github-readme-stats.vercel.app/api?username=comp-wolf&show_icons=true&locale=en" alt="comp-wolf" width="320" />
 
-
-<br />
-<br />
-<br />
-<br />
   
 <!---  ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&show_icons=true) --->
 
