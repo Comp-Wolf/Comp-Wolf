@@ -47,9 +47,9 @@
 <p align="center">
 
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=comp-wolf&show_icons=true&locale=en&layout=compact" alt="comp-wolf" width="320" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=comp-wolf&show_icons=true&locale=en&layout=compact" alt="comp-wolf" width="280" /> 
   
-[<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="100" width="180" />](https://www.linkedin.com/groups/14059731/) <img align="right" src="https://github-readme-stats.vercel.app/api?username=comp-wolf&show_icons=true&locale=en" alt="comp-wolf" width="385" />
+[<img align="center" src="https://media-exp1.licdn.com/dms/image/C5622AQGblApAyEwcyA/feedshare-shrink_800/0/1647354255932?e=1650499200&v=beta&t=7RLhpZIaintkKenpSjICLidCMHR5yNvTtRU4K7RGucI" color="white" alt="NightFighterClub" height="100" width="180" />](https://www.linkedin.com/groups/14059731/) <img align="right" src="https://github-readme-stats.vercel.app/api?username=comp-wolf&show_icons=true&locale=en" alt="comp-wolf" width="310" />
 
 
 <br />
