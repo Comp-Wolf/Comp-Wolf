@@ -80,12 +80,8 @@
   <img src="https://pandorafms.com/blog/wp-content/uploads/2019/02/what-is-grafana-featured.jpg" width="8.4%">
   <img src="https://user-images.githubusercontent.com/567298/57307750-696bb980-70e5-11e9-9b0b-73ad88bde6a3.png" width="14.5%">
   <img src="https://s2.best-wallpaper.net/wallpaper/1920x1080/1608/Google-Nexus-logo_1920x1080.jpg" width="10%">
-  
   <img src="https://www.kodlamamerkezi.com/wp-content/uploads/2016/04/maven-nedir.jpg" width="9%">
-  
   <img src="https://cdn.education-wiki.com/img/top-interview-question/4091413/maven-interview-questions.jpg.webp" width="11%">
-  
-  
   </p>
   
   ----------------
