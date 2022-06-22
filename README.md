@@ -75,12 +75,12 @@
   <img src="https://www.stratoscale.com/wp-content/uploads/2019/04/Kubernetes-logo.png" width="5.5%"> 
   <img src="https://sdtimes.com/wp-content/uploads/2015/10/1016.sdt-redhat.jpg.jpg" width="11.1%"> 
   <img src="https://cdn.geekwire.com/wp-content/uploads/2014/03/AWS-Logo-black.jpg" width="9.5%">
+  <img src="https://s2.best-wallpaper.net/wallpaper/1920x1080/1608/Google-Nexus-logo_1920x1080.jpg" width="10%">
+  <img src="https://cdn.education-wiki.com/img/top-interview-question/4091413/maven-interview-questions.jpg.webp" width="11%">
   <img src="https://devstickers.com/assets/img/pro/imue.png" width="5%">
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/09/store.png" width="5.5%">
   <img src="https://pandorafms.com/blog/wp-content/uploads/2019/02/what-is-grafana-featured.jpg" width="8.4%">
   <img src="https://user-images.githubusercontent.com/567298/57307750-696bb980-70e5-11e9-9b0b-73ad88bde6a3.png" width="14.5%">
-  <img src="https://s2.best-wallpaper.net/wallpaper/1920x1080/1608/Google-Nexus-logo_1920x1080.jpg" width="10%">
-  <img src="https://cdn.education-wiki.com/img/top-interview-question/4091413/maven-interview-questions.jpg.webp" width="11%">
   </p>
   
   ----------------
