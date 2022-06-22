@@ -70,9 +70,9 @@
   <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="8%"> 
   <img src="https://i0.wp.com/makeseleniumeasy.com/wp-content/uploads/2021/10/8ogqpfkvqqpyfbs3w6p7.png?w=1000" width="11.5%">
   <img src="https://www.scalefactory.com/blog/2021/04/30/hashicorp-terraform-release-key-rotation/Terraform.png" width="7%"> 
+  <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/03/kubernetes-logo.png" width="5.5%"> 
   <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" width="8%"> 
   <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" width="8%"> 
-  <img src="https://www.stratoscale.com/wp-content/uploads/2019/04/Kubernetes-logo.png" width="5.5%"> 
   <img src="https://sdtimes.com/wp-content/uploads/2015/10/1016.sdt-redhat.jpg.jpg" width="11.1%"> 
   <img src="https://cdn.geekwire.com/wp-content/uploads/2014/03/AWS-Logo-black.jpg" width="9.5%">
   <img src="https://s2.best-wallpaper.net/wallpaper/1920x1080/1608/Google-Nexus-logo_1920x1080.jpg" width="10%">
