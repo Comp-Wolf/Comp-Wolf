@@ -61,7 +61,7 @@
  Languages and Tools:
  </p>
   
-  ----------------  
+  --- --- --- --- ---  
   
 <p> <img src="https://marka-logo.com/wp-content/uploads/2020/09/Linux-Logo.png" width="8%"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="13%"> 
@@ -86,7 +86,7 @@
   
   </p>
   
-  ----------------
+  --- --- --- --- ---
   
 ## 📫 Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">         [ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHRNGR)](https://github.com/comp-wolf) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=Comp-Wolf&label=Profile%20views&color=129e00&style=plastic" alt="Ali" /> </p> 
 
